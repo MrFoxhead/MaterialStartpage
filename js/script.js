@@ -1,4 +1,4 @@
-document.body.style.background = '#424F5A';
+//document.body.style.background = '#424F5A';
 //document.body.style.backgroundImage = 'url(https://unsplash.it/' + window.innerWidth + '/' + window.innerHeight + '/g/?random&blur)';
 //document.body.style.backgroundImage = 'url(https://unsplash.com/photos/nQILmS20m8o/blur)';
 
